@@ -1,4 +1,3 @@
-
 *{
     margin: 0;
     padding: 0;
@@ -30,7 +29,7 @@ span::before{
     position: absolute;
     width: 80px;
     height: 80px;
-    background: url("../img/heart.png");
+    background: url("img-heart.png");
     background-size: cover;
     animation: moveShape 1s linear infinite;
 
